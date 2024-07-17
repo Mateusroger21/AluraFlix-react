@@ -31,7 +31,7 @@ O Aluraflix é uma aplicação de streaming de vídeos, onde os usuários podem 
 ## Instalação
 
 1. Clone o repositório do projeto:
-git clone https://github.com/AluraFlix-REACT.git
+git clone https://github.com/Mateusroger21/AluraFlix-react.git
 
 2. Navegue até o diretório do projeto:
 cd aluraflix
@@ -56,4 +56,4 @@ Para ver a versão rodando do projeto, acesse: [Aluraflix]
 
 ---
 
-Desenvolvido por [Mateus Roger]() para Alura em parceria com a ONE.
+Desenvolvido por [Mateus Roger](https://github.com/Mateusroger21) para Alura em parceria com a ONE.
